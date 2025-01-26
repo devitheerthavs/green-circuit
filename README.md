@@ -64,7 +64,7 @@ E-Waste Hub is a comprehensive digital platform designed to revolutionize electr
 ### Setup
 bash
 # Clone the repository
-git clone https://github.com/yourusername/e-waste-hub.git
+git clone https://github.com/devitheerthavs/green-circuit.git
 
 # Navigate to project directory
 cd e-waste-hub
@@ -96,4 +96,4 @@ Configure your .env file with:
 Distributed under the MIT License. See LICENSE for more information.
 
 ## 📞 Contact
-Project Link: [https://github.com/yourusername/e-waste-hub](https://github.com/yourusername/e-waste-hub)
+Project Link: [https://github.com/devitheerthavs/green-circuit](https://github.com/devitheerthavs/green-circuit)
